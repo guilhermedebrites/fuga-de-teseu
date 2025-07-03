@@ -1,0 +1,45 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: A Fuga De Teseu
+authors:
+  - family-names: Samarane Ribeiro
+    given-names: Gabriel
+  - family-names: Marçal Lima
+    given-names: Pedro
+  - family-names: Madeira Carneiro Braga de Freitas
+    given-names: João
+  - family-names: Gomes de Brites
+    given-names: Guilherme
+  - family-names: Ribeiro Maia
+    given-names: Pedro
+  - family-names: Azeredo Coutinho Curi
+    given-names: Joao Lucas
+  - family-names: Alkmim Barros
+    given-names: Lucas
+  - family-names: Caldeira Andrade
+    given-names: Fábio
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Neri Nobre
+    given-names: Cristiane
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ribeiro da Mota
+    given-names: Rosilane
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Neves Rodrigues
+    given-names: Cristiano
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Martins Mol
+    given-names: Artur
+keywords:
+  - Unity
+  - Video-Game
+  - PUC Minas
+  - Indie
+repository-code: https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti4-2024-2-g14-fugadeteseu
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-11-29

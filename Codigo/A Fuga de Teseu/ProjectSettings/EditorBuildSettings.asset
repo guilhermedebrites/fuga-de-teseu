@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c634f9d3eae076f43b46b8ca06ad472b
+  - enabled: 1
+    path: Assets/Scenes/Labirinto-01.unity
+    guid: 41f410fd18d6535469a0760cf714371e
+  - enabled: 1
+    path: Assets/Scenes/Labirinto-02.unity
+    guid: b587241fd92402d4c92637b25d44df54
+  - enabled: 1
+    path: Assets/Scenes/Labirinto-03.unity
+    guid: 30e8f78d3ecf4394cbecd25637703a4d
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 422aeb18f706284489919a27732e3d4b
+  - enabled: 1
+    path: Assets/Scenes/Labirinto-04.unity
+    guid: 1a64af1efe388a543aee0a9b35570e82
+  - enabled: 1
+    path: Assets/Scenes/Final-Corredor.unity
+    guid: b55ade779a29afd43b2f3ae401e84c25
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 3405a54dc3a073240833cdf2154d91a6
+  - enabled: 1
+    path: Assets/Scenes/Final-Saida.unity
+    guid: 464f6f3f33c307f46842bae119a2b173
+  m_configObjects: {}
